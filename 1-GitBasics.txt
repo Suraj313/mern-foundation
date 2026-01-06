@@ -1,0 +1,9 @@
+1. git init - Initializes (creates) a new Git repository in a project folder.
+
+2. git clone - Copies an existing remote repository to your local system
+
+3.git add - Adds files to the staging area before committing.
+
+4.git commit - Saves staged changes with a message.
+
+5.git push - Uploads local commits to a remote repository (GitHub)
