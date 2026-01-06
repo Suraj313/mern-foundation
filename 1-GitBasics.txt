@@ -1,4 +1,4 @@
-1. git init – Initializes a Git repository in the main branch.
+1. git init – Initializes a new Git repository so Git can start tracking changes.
 
 2. git clone – Creates a local copy of an existing remote repository from GitHub or GitLab.
 
