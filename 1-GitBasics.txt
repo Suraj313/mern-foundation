@@ -1,4 +1,4 @@
-1. git init – Initializes a new Git repository in a project folder so Git can start tracking changes.
+1. git init – Initializes a new repository for tracking changes.
 
 2. git clone – Creates a local copy of an existing remote repository from GitHub or GitLab.
 
